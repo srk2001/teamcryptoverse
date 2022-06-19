@@ -9,7 +9,7 @@ function Footer() {
   return (
     <div className="footerSection d-flex flex-column align-items-center justify-content-center py-4">
       <Typography className="my-2">
-        Copyright © 2022 Nikhil Alladi. All rights Reserved
+        Copyright © 2022 Sai Ramakrishna. All rights Reserved
       </Typography>
 
       <div className="d-flex my-2 footerText">
