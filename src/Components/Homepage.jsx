@@ -97,7 +97,7 @@ function Homepage() {
         <div className="d-flex align-items-center justify-content-between">
           <img
             onClick={(event) =>
-              (window.location.href = `${"https://github.com/srk2001"}`)
+              (window.location.href = `${"https://twitter.com/IamsrkUnique"}`)
             }
             src={Image1}
             alt="Image1"
