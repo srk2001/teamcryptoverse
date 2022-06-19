@@ -1,0 +1,14 @@
+.footerSection {
+  background-color: #d8edff;
+  font-family: sans-serif;
+  font-weight: 500;
+  color: #000000;
+  /* position: fixed;
+  bottom: 0; */
+  width: 100%;
+}
+
+.footerText {
+  font-size: 12px;
+  cursor: pointer;
+}

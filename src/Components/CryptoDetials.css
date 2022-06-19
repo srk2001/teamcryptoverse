@@ -1,0 +1,13 @@
+.cryptoImageTotalDetails {
+  width: 5vw;
+  height: 7vh;
+  border-radius: 50%;
+}
+
+.cryptoDetailsTotal {
+  font-family: sans-serif;
+}
+
+.coinTitle{
+  color: #000000;
+}

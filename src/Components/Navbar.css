@@ -1,0 +1,75 @@
+.cryptoImage {
+  width: 2.4vw;
+  height: 4.5vh;
+}
+
+.title {
+  font-size: 2vw;
+  /* color: #c4c4c4  ; */
+  font-weight: 700;
+}
+
+.navbarContainer {
+  background-color: #d8edff;
+  /* width: 18vw; */
+  height: 100vh;
+}
+
+.navbarItems ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.navbarItems ul li {
+  height: 12vh;
+  cursor: pointer;
+  color: black;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.eachNavItem {
+  margin-right: 10px;
+  width: 6vw;
+  margin-left: 10px;
+}
+
+.eachNavItem:hover {
+  height: 12vh;
+  background-color: #f6f7f9;
+  border-radius: 10px;
+}
+
+.eachNavItem:hover .navLinks {
+  font-weight: 550;
+}
+
+.eachNavItemBorder {
+  width: 0.4vw;
+  height: 12vh;
+  background-color: rgb(1, 182, 245);
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+.navLinks {
+  font-size: 12px;
+}
+
+.cryptoverseImage {
+  width: 3vw;
+  height: 7vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 4px solid rgb(1, 182, 245);
+  border-radius: 50%;
+  background-color: black;
+}
