@@ -97,7 +97,7 @@ function Homepage() {
         <div className="d-flex align-items-center justify-content-between">
           <img
             onClick={(event) =>
-              (window.location.href = `${"https://github.com/NikhilAlladii"}`)
+              (window.location.href = `${"https://github.com/srk2001"}`)
             }
             src={Image1}
             alt="Image1"
@@ -105,7 +105,7 @@ function Homepage() {
           />
           <img
             onClick={(event) =>
-              (window.location.href = `${"https://github.com/NikhilAlladii"}`)
+              (window.location.href = `${"https://github.com/srk2001"}`)
             }
             src={Image2}
             alt="Image1"
@@ -113,7 +113,7 @@ function Homepage() {
           />
           <img
             onClick={(event) =>
-              (window.location.href = `${"https://github.com/NikhilAlladii"}`)
+              (window.location.href = `${"https://github.com/srk2001"}`)
             }
             src={Image3}
             alt="Image1"
